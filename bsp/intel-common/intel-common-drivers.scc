@@ -89,3 +89,6 @@ include features/intel-tco/intel-tco.scc
 # default policy for standard kernels
 include cfg/usb-mass-storage.scc
 include cfg/boot-live.scc
+
+#Accelration
+include features/intel-npu/intel-npu.scc
