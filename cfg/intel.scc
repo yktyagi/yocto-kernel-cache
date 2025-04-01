@@ -1,2 +1,4 @@
 # SPDX-License-Identifier: MIT
 kconf hardware intel.cfg
+
+include features/iommu/iommu.scc
